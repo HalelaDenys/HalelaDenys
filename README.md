@@ -10,7 +10,6 @@
 
 ###
 
-
 <div align="center">
   <a href="https://www.linkedin.com/in/denys-halela-748611280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-484ed5?style=for-the-badge&logo=LinkedIn&logoColor=black" alt="LinkedIn" />
@@ -30,8 +29,14 @@
     <img src="https://img.shields.io/badge/docker-483c90?style=for-the-badge&logo=docker&logoColor=0ced5e" alt="docker" />
     <img src="https://img.shields.io/badge/JavaScript-483c90?style=for-the-badge&logo=JavaScript&logoColor=0ced5e" alt="JavaScript" />
     <img src="https://img.shields.io/badge/TypeScript-483c90?style=for-the-badge&logo=TypeScript&logoColor=0ced5e" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/react-483c90?style=for-the-badge&logo=react&logoColor=0ced5e" alt="react" />
+    <img src="https://img.shields.io/badge/react-483c90?https://github-readme-stats.vercel.app/api?username=HalelaDenys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1style=for-the-badge&logo=react&logoColor=0ced5e" alt="react" />
     <img src="https://img.shields.io/badge/HTML-483c90?style=for-the-badge&logo=HTML&logoColor=0ced5e" alt="HTML" />
     <img src="https://img.shields.io/badge/CSS-483c90?style=for-the-badge&logo=HTML&logoColor=0ced5e" alt="CSS" />
     <img src="https://img.shields.io/badge/jira-483c90?style=for-the-badge&logo=jira&logoColor=0ced5e" alt="jira" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalelaDenys&layout=compact&theme=tokyonight&langs_count=5" height="200" alt="languages graph"  />
 </div>
