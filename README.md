@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Привіт! Я Денис Галела! 👋 </h1>
+<h1 align="center">Hello, I'm Denys Halela! 👋 </h1>
 
 ###
 
@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<h3 align="left">Технології</h3>
+<h3 align="left">Languages and technologies</h3>
 
 <div align="left">
     <img src="https://img.shields.io/badge/python-483c90?style=for-the-badge&logo=python&logoColor=0ced5e" alt="python" />
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/docker-483c90?style=for-the-badge&logo=docker&logoColor=0ced5e" alt="docker" />
     <img src="https://img.shields.io/badge/JavaScript-483c90?style=for-the-badge&logo=JavaScript&logoColor=0ced5e" alt="JavaScript" />
     <img src="https://img.shields.io/badge/TypeScript-483c90?style=for-the-badge&logo=TypeScript&logoColor=0ced5e" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/react-483c90?https://github-readme-stats.vercel.app/api?username=HalelaDenys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1style=for-the-badge&logo=react&logoColor=0ced5e" alt="react" />
+    <img src="https://img.shields.io/badge/react-483c901style=for-the-badge&logo=react&logoColor=0ced5e" alt="react" />
     <img src="https://img.shields.io/badge/HTML-483c90?style=for-the-badge&logo=HTML&logoColor=0ced5e" alt="HTML" />
     <img src="https://img.shields.io/badge/CSS-483c90?style=for-the-badge&logo=HTML&logoColor=0ced5e" alt="CSS" />
     <img src="https://img.shields.io/badge/jira-483c90?style=for-the-badge&logo=jira&logoColor=0ced5e" alt="jira" />
