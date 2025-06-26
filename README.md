@@ -7,6 +7,7 @@
 ###
 
 <h1 align="center">Hello, I'm Denys Halela! 👋 </h1>
+<h1 align="center">Python/Database Developer</h1>
 
 ###
 
