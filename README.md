@@ -13,7 +13,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/denys-halela-748611280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-484ed5?style=for-the-badge
-    " alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-484ed5?style=for-the-badge&logo=LinkedIn&logoColor=black" alt="LinkedIn" />
   </a>
 </div>
