@@ -1,4 +1,4 @@
 <br clear="both">
-<div>
-    <img src="assets/Laboratory 研究室.gif">
+<div align="center">
+    <img height="300" width="600" src="assets/Laboratory 研究室.gif">
 </div>
