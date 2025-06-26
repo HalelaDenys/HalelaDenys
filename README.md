@@ -19,6 +19,8 @@
 
 <h3 align="left">Технології</h3>
 
-<img src="https://img.shields.io/badge/python-483c90?style=for-the-badge&logo=python&logoColor=green" alt="LinkedIn" />
-<img src="https://img.shields.io/badge/sql-483c90?style=for-the-badge&logo=sql&logoColor=green" alt="LinkedIn" />
-<img src="https://img.shields.io/badge/PL/SQL-483c90?style=for-the-badge&logo=PL/SQL&logoColor=green" alt="LinkedIn" />
+<div align="left">
+    <img src="https://img.shields.io/badge/python-483c90?style=for-the-badge&logo=python&logoColor=green" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/sql-483c90?style=for-the-badge&logo=sql&logoColor=green" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/PL/SQL-483c90?style=for-the-badge&logo=PL/SQL&logoColor=green" alt="LinkedIn" />
+</div>
