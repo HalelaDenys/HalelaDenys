@@ -6,4 +6,3 @@
 
 <h1 align="center">Привіт! Я Денис Галела! 👋 </h1>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Python?style=flat&logo=python">
