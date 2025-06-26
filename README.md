@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/docker-483c90?style=for-the-badge&logo=docker&logoColor=0ced5e" alt="docker" />
     <img src="https://img.shields.io/badge/JavaScript-483c90?style=for-the-badge&logo=JavaScript&logoColor=0ced5e" alt="JavaScript" />
     <img src="https://img.shields.io/badge/TypeScript-483c90?style=for-the-badge&logo=TypeScript&logoColor=0ced5e" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/react-483c901style=for-the-badge&logo=react&logoColor=0ced5e" alt="react" />
+    <img src="https://img.shields.io/badge/react-483c90?style=for-the-badge&logo=react&logoColor=0ced5e" alt="react" />
     <img src="https://img.shields.io/badge/HTML-483c90?style=for-the-badge&logo=HTML&logoColor=0ced5e" alt="HTML" />
     <img src="https://img.shields.io/badge/CSS-483c90?style=for-the-badge&logo=HTML&logoColor=0ced5e" alt="CSS" />
     <img src="https://img.shields.io/badge/jira-483c90?style=for-the-badge&logo=jira&logoColor=0ced5e" alt="jira" />
