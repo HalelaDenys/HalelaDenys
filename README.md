@@ -34,6 +34,7 @@
     <img src="https://img.shields.io/badge/HTML-483c90?style=for-the-badge&logo=HTML&logoColor=0ced5e" alt="HTML" />
     <img src="https://img.shields.io/badge/CSS-483c90?style=for-the-badge&logo=HTML&logoColor=0ced5e" alt="CSS" />
     <img src="https://img.shields.io/badge/jira-483c90?style=for-the-badge&logo=jira&logoColor=0ced5e" alt="jira" />
+    <img src="https://img.shields.io/badge/RabbitMQ?style=for-the-badge&logo=RabbitMQ&logoColor=0ced5e" alt="RabbitMQ" />
 </div>
 
 ###
