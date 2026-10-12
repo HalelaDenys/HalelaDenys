@@ -17,6 +17,10 @@
   </a>
 </div>
 
+<div aling="center">
+  I am a Backend Engineer focused on building scalable, reliable, and high-performance systems that solve real-world business problems. I am passionate about backend architecture, performance optimisation, and developing efficient solutions that can handle growing workloads. I continuously strive to improve my skills, write clean and maintainable code, and turn complex challenges into practical solutions.
+</div>
+
 <h3 align="left">Languages and technologies</h3>
 
 <div align="left">
