@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/sql-483c90?style=for-the-badge&logo=sql&logoColor=0ced5e" alt="sql" />
     <img src="https://img.shields.io/badge/PL/SQL-483c90?style=for-the-badge&logo=PL/SQL&logoColor=0ced5e" alt="PL/SQL" />
     <img src="https://img.shields.io/badge/aiogram-483c90?style=for-the-badge&logo=aiogram&logoColor=0ced5e" alt="aiogram" />
+    <img src="https://img.shields.io/badge/radis-483c90?style=for-the-badge&logo=radis&logoColor=0ced5e" alt="radis" />
     <img src="https://img.shields.io/badge/FastAPI-483c90?style=for-the-badge&logo=FastAPI&logoColor=0ced5e" alt="FastAPI" />
     <img src="https://img.shields.io/badge/pytest-483c90?style=for-the-badge&logo=pytest&logoColor=0ced5e" alt="pytest" />
     <img src="https://img.shields.io/badge/Postman-483c90?style=for-the-badge&logo=Postman&logoColor=0ced5e" alt="Postman" />
